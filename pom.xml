@@ -38,7 +38,7 @@
         <logback.access.version>1.2.3</logback.access.version>
         <logback.core.version>1.2.3</logback.core.version>
         <logback.ext.spring.version>0.1.4</logback.ext.spring.version>
-        <fastjson.version>1.2.46</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <guava.version>25.0-jre</guava.version>
         <commons.lang3.version>3.8</commons.lang3.version>
         <httpclient.version>4.5.3</httpclient.version>
